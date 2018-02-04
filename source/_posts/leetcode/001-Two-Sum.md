@@ -1,5 +1,6 @@
 ---
 number: 1
+layout: leetcode
 title: "001 Two Sum"
 leetcodeURL: "https://leetcode.com/problems/two-sum/description/"
 date: 2018-01-01
