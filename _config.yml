@@ -130,7 +130,7 @@ per_page: 8
 pagination_dir: page
 
 ## Themes: https://hexo.io/themes/
-theme: a-rsnippet
+theme: A-RSnippet
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
